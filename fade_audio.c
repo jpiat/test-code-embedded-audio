@@ -38,7 +38,7 @@ int main(int argc, char ** argv){
 	}
 
 	/**
-	Step 6 : documpent code using doxygen
+	Step 6 : document code using doxygen
 	**/
 	return 0 ;
 }
